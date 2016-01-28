@@ -1,0 +1,9 @@
+<InstrumentContents>
+     <SampleHolder11>
+          <Samples>
+               <Sample diameter="10" barcode="A1"/>
+        <Sample diameter="10" barcode="2"/>
+        <Sample diameter="10" barcode="3"/>
+          </Samples>
+     </SampleHolder11>
+</InstrumentContents>
